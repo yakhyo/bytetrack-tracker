@@ -6,6 +6,16 @@ A clean implementation of ByteTrack for multi-object tracking using Kalman filte
   <img src="assets/output.gif" width="640">
 </div>
 
+
+<details>
+<summary>Click to see higher quality video</summary>
+
+<video src="https://github.com/user-attachments/assets/e650395b-d0ae-4aab-b2e1-6900cece52d5" controls width="640"></video>
+
+</details>
+
+
+
 ## Installation
 
 ```bash
