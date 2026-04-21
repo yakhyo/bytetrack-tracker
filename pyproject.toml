@@ -9,6 +9,7 @@ dependencies = [
     "scipy>=1.7",
 ]
 
-[tool.hatch.build.targets.wheel]
-packages = ["bytetrack"]
+[build-system]
+requires = ["hatchling"]
+build-backend = ["hatchling.build"]
 
