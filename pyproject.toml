@@ -1,0 +1,15 @@
+[project]
+name = "bytetrack"
+version = "0.1.0"
+description = "ByteTrack multi-object tracker with Kalman filter"
+requires-python = ">=3.10"
+license = "MIT"
+dependencies = [
+    "numpy>=1.21",
+    "scipy>=1.7",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
