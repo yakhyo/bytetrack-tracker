@@ -2,6 +2,10 @@
 
 A clean implementation of ByteTrack for multi-object tracking using Kalman filtering and two-stage association.
 
+> [!TIP]
+> This tracker is **integrated into [UniFace](https://github.com/yakhyo/uniface)** as `BYTETracker` — an all-in-one face analysis library.<br>
+> [![PyPI Version](https://img.shields.io/pypi/v/uniface.svg)](https://pypi.org/project/uniface/) [![GitHub Stars](https://img.shields.io/github/stars/yakhyo/uniface)](https://github.com/yakhyo/uniface/stargazers)
+
 <div align="center">
   <img src="assets/output.gif" width="640">
 </div>
